@@ -145,4 +145,4 @@ Remote-first, GMT+7 with overlap into US-PT mornings.
   <sub>
     "Writing as a second form of thinking." &nbsp;·&nbsp; <a href="https://minhle.xyz/blog">the journal</a>
   </sub>
-</p>
+</p> 
