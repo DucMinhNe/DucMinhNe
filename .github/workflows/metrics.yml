@@ -1,0 +1,37 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Uses a richer personal token if you add METRICS_TOKEN; otherwise the
+          # built-in GITHUB_TOKEN (still produces a great card).
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          filename: github-metrics.svg
+          output_action: commit
+          committer_message: "chore: update metrics"
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          plugins_errors_fatal: no
+
+          # 3D contribution calendar — the eye-catching bit
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Language breakdown
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8

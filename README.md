@@ -1,14 +1,14 @@
 <!-- =========================  HEADER  ========================= -->
 <a href="https://minhle.xyz">
   <img width="100%" alt="Minh Le · Marcus — Full Stack Developer"
-       src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f766e&height=200&section=header&text=Minh%20Le%20%C2%B7%20Marcus&fontColor=ffffff&fontSize=46&desc=Full%20Stack%20Developer%20%E2%80%94%20Next.js%20%C2%B7%20React%20%C2%B7%20distributed%20systems&descAlignY=64&descSize=18&animation=fadeIn" />
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f766e&height=210&section=header&text=Minh%20Le%20%C2%B7%20Marcus&fontColor=ffffff&fontSize=48&desc=Full%20Stack%20Developer%20%E2%80%94%20Next.js%20%C2%B7%20React%20%C2%B7%20distributed%20systems&descAlignY=64&descSize=18&animation=fadeIn" />
 </a>
 
 <!-- =========================  TYPING INTRO  ========================= -->
 <div align="center">
   <a href="https://minhle.xyz">
     <img alt="What I do"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+based+in+Ho+Chi+Minh+City;I+build+complete+web+products+%E2%80%94+front+to+back;Government+platforms+used+by+millions;Open+to+freelance+%26+contract+work" />
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+based+in+Ho+Chi+Minh+City;I+build+complete+web+products+%E2%80%94+front+to+back;APIs%2C+data+pipelines+%26+AI+workflows;Open+to+freelance+%26+contract+work" />
   </a>
 </div>
 
@@ -57,64 +57,36 @@ const marcus = {
 
 ## 🛠️ Tech stack
 
-**Languages**
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+**Languages**<br/>
+<img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,java,py,go&theme=dark" />
 
-**Frontend**
+**Frontend**<br/>
+<img alt="Frontend" src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+**Backend**<br/>
+<img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,spring,nestjs&theme=dark" />
 
-**Backend**
+**Data**<br/>
+<img alt="Data" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,elasticsearch&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+**DevOps &amp; tools**<br/>
+<img alt="DevOps" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,cloudflare,git,linux&theme=dark" />
 
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
-**Infra & tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub stats
+## 📈 Metrics
 
 <div align="center">
-  <img height="170" alt="Stats"
-       src="https://github-readme-stats.vercel.app/api?username=DucMinhNe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=9aa5b1&bg_color=0d1117" />
-  <img height="170" alt="Top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucMinhNe&layout=compact&langs_count=8&hide_border=true&title_color=14b8a6&text_color=9aa5b1&bg_color=0d1117" />
+  <img width="100%" alt="GitHub metrics" src="./github-metrics.svg" />
 </div>
 
 <div align="center">
   <img alt="Streak"
        src="https://streak-stats.demolab.com?user=DucMinhNe&hide_border=true&background=0d1117&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=9aa5b1&sideNums=9aa5b1&currStreakLabel=14b8a6&sideLabels=14b8a6&dates=5b677d" />
-</div>
-
-<div align="center">
-  <img width="100%" alt="Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=DucMinhNe&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
 </div>
 
 ---
