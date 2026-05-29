@@ -35,7 +35,7 @@
 ## 🧑‍💻 About me
 
 - 🔭 **Currently** — building & maintaining [`minhle.xyz`](https://minhle.xyz): a portfolio + an engineering journal of deep-dives on Kafka, Redis, Postgres & system design.
-- 🌏 **Shipped** — Singapore government platforms ([SkillsFuture](https://www.skillsfuture.gov.sg/), [MPA](https://www.mpa.gov.sg/), SGDI) used by millions of citizens.
+- 🌏 **Shipped** — government & enterprise platforms used by millions of citizens.
 - 🏆 **1st place** — Token2049 Origins hackathon 2025: on-chain crypto payments sent through X (Twitter) DMs.
 - 🤖 **Built** — [Dessistant](https://dessistant.xyz/), an AI-driven Web3 trading product, end to end.
 - 🌱 **Learning** — Go, and deeper distributed-systems design.
@@ -132,8 +132,6 @@ const marcus = {
 
 | | What it is |
 | --- | --- |
-| **[SkillsFuture (gov.sg)](https://www.skillsfuture.gov.sg/)** | Singapore's national skills-credential platform, used by millions |
-| **[MPA Singapore](https://www.mpa.gov.sg/)** | Maritime & Port Authority — internal dashboards & operational tooling |
 | **[Dessistant](https://dessistant.xyz/)** | AI-driven Web3 trading product (Next.js · NestJS · Kafka · OpenAI) |
 | **Whampay** | 🏆 1st place — Token2049 Origins hackathon · on-chain payments via X DMs |
 | **[AnGiDay](https://angiday.xyz/)** · **[MemeTV](https://memetv.cc/)** | Consumer products — food discovery & live social video |
