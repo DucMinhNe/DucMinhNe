@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://minhle.xyz">
     <img alt="What I do"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+based+in+Ho+Chi+Minh+City;I+build+complete+web+products+%E2%80%94+front+to+back;APIs%2C+data+pipelines+%26+AI+workflows;Open+to+freelance+%26+contract+work" />
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;69+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
   </a>
 </div>
 
@@ -34,11 +34,11 @@
 
 ## 🧑‍💻 About me
 
-- 🔭 **Currently** — building & maintaining [`minhle.xyz`](https://minhle.xyz): a portfolio + an engineering journal of deep-dives on Kafka, Redis, Postgres & system design.
-- 🌏 **Shipped** — government & enterprise platforms used by millions of citizens.
-- 🏆 **1st place** — Token2049 Origins hackathon 2025: on-chain crypto payments sent through X (Twitter) DMs.
-- 🤖 **Built** — [Dessistant](https://dessistant.xyz/), an AI-driven Web3 trading product, end to end.
-- 🌱 **Learning** — Go, and deeper distributed-systems design.
+- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **69 deep-dives across 19 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
+- 🌏 **Shipped** — government & enterprise platforms used by **millions** of people, end to end.
+- 🏆 **1st place ($5K)** — won *Best of Polkadot* at **Token2049 Origins 2025** with crypto payments sent through X (Twitter) DMs.
+- 🤖 **Built** — [Dessistant](https://dessistant.xyz/): real-time blockchain indexing + LLM trade execution + automated market-making on Uniswap & KyberSwap.
+- 🌱 **Learning** — Go, and going deeper on distributed-systems design.
 - 💬 **Ask me about** — Next.js, Kafka, Postgres, Redis, Elasticsearch, system design.
 - 📫 **Reach me** — `ducminhldm@gmail.com`
 
@@ -52,6 +52,16 @@ const marcus = {
   availableFor: ["freelance", "contract", "senior IC"],
 } satisfies Engineer;
 ```
+
+---
+
+## ⚙️ How I work
+
+- **Boring tech first** — I won't introduce a framework that costs more than the problem it solves.
+- **Real dependencies in tests** — Testcontainers over mocks, every time.
+- **Idempotency from day one** — money endpoints and event consumers ship with keys.
+- **Compile-time over runtime** — strict TypeScript, discriminated unions, branded types.
+- **One log per state transition** — structured events; metrics for counts; traces for latency.
 
 ---
 
@@ -104,9 +114,9 @@ const marcus = {
 
 | | What it is |
 | --- | --- |
-| **[Dessistant](https://dessistant.xyz/)** | AI-driven Web3 trading product (Next.js · NestJS · Kafka · OpenAI) |
-| **Whampay** | 🏆 1st place — Token2049 Origins hackathon · on-chain payments via X DMs |
-| **[AnGiDay](https://angiday.xyz/)** · **[MemeTV](https://memetv.cc/)** | Consumer products — food discovery & live social video |
+| **[Dessistant](https://dessistant.xyz/)** | AI Web3 trading — real-time chain indexing, LLM trade execution, automated market-making (Next.js · NestJS · Kafka · MongoDB · Redis) |
+| **Whampay** | 🏆 **1st place · $5K** at Token2049 Origins 2025 — crypto remittance sent through X (Twitter) DMs |
+| **[AnGiDay](https://angiday.xyz/)** · **[MemeTV](https://memetv.cc/)** | Consumer products — swipeable food discovery & live 1-on-1 social video |
 
 → More at **[minhle.xyz/#projects](https://minhle.xyz/#projects)** · read the journal at **[minhle.xyz/blog](https://minhle.xyz/blog)**
 
