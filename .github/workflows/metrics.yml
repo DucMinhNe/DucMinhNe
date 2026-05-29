@@ -23,15 +23,12 @@ jobs:
           committer_message: "chore: update metrics"
 
           template: classic
-          base: header, activity, community, repositories, metadata
+          # No base stats: with GITHUB_TOKEN they show empty zeros (1 repo, 0 orgs…)
+          # which looks weak. Keep only the visually striking 3D calendar.
+          base: ""
           config_timezone: Asia/Ho_Chi_Minh
           plugins_errors_fatal: no
 
           # 3D contribution calendar — the eye-catching bit
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Language breakdown
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
