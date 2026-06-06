@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://minhle.xyz">
     <img alt="What I do"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;69+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;87+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
   </a>
 </div>
 
@@ -28,13 +28,14 @@
   <a href="https://minhle.xyz/blog"><img alt="Blog" src="https://img.shields.io/badge/Engineering%20Journal-Read-0f766e?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://www.linkedin.com/in/minhleit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
   <a href="mailto:ducminhldm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://hub.docker.com/u/minhle202"><img alt="Docker Hub" src="https://img.shields.io/badge/Docker%20Hub-minhle202-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" /></a>
 </div>
 
 ---
 
 ## 🧑‍💻 About me
 
-- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **69 deep-dives across 19 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
+- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **87 deep-dives across 22 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
 - 🌏 **Shipped** — government & enterprise platforms used by **millions** of people, end to end.
 - 🏆 **1st place ($5K)** — won *Best of Polkadot* at **Token2049 Origins 2025** with crypto payments sent through X (Twitter) DMs.
 - 🤖 **Built** — [Dessistant](https://dessistant.xyz/): real-time blockchain indexing + LLM trade execution + automated market-making on Uniswap & KyberSwap.
@@ -119,6 +120,25 @@ const marcus = {
 | **[AnGiDay](https://angiday.xyz/)** · **[MemeTV](https://memetv.cc/)** | Consumer products — swipeable food discovery & live 1-on-1 social video |
 
 → More at **[minhle.xyz/#projects](https://minhle.xyz/#projects)** · read the journal at **[minhle.xyz/blog](https://minhle.xyz/blog)**
+
+---
+
+## 🌳 Open-source contributions
+
+**11 pull requests merged** into widely-used open-source projects — docs & correctness fixes, several merged **the same day**, a couple by the project's **founder / core team**.
+
+| Project | Contribution | |
+| --- | --- | --- |
+| **[NestJS](https://github.com/nestjs/nest/pull/17085)** | fixed a user-facing string in the Node 22 ESM sample | ✅ merged by **Kamil Myśliwiec** — creator of NestJS |
+| **[React Router](https://github.com/remix-run/react-router/pull/15149)** · Remix | fixed a broken `Headers.append()` docs example | ✅ merged by core maintainer |
+| **[Astro](https://github.com/withastro/astro/pull/16976)** | corrected `getStaticPaths` examples in the error reference | ✅ same-day · core team |
+| **[Vite](https://github.com/vitejs/vite/pull/22600)** | synced the documented `build.target` default with the source | ✅ same-day · core |
+| **[TanStack Query](https://github.com/TanStack/query/pull/10873)** | updated the `QueryCache` docs from the v4 to the v5 API | ✅ same-day |
+| **[Svelte](https://github.com/sveltejs/svelte/pull/18367)** | fixed invalid CSS in a runnable docs example | ✅ same-day |
+| **[Nx](https://github.com/nrwl/nx/pull/35852)** | corrected user-facing error messages | ✅ merged by core maintainer |
+| **[Medusa](https://github.com/medusajs/medusa/pull/15564)** | fixed the Workflows tutorial docs | ✅ merged |
+
+<sub>Also merged into **[OpenTelemetry C++](https://github.com/open-telemetry/opentelemetry-cpp/pull/4111)** (CNCF), **[OpenEMR](https://github.com/openemr/openemr/pull/12327)**, and **[Svelte language-tools](https://github.com/sveltejs/language-tools/pull/3039)** — the official VS Code extension.</sub>
 
 ---
 
