@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://minhle.xyz">
     <img alt="What I do"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;Open-source+contributor+%E2%80%94+13+PRs+merged+at+NestJS%2C+Vite%2C+Astro;87+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;Open-source+contributor+%E2%80%94+24+PRs+merged+at+Node.js%2C+NestJS%2C+Vite;98+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/DucMinhNe?label=Followers&style=flat-square&color=14b8a6&labelColor=0d1117" />
   </a>
   <a href="#-open-source-contributions">
-    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-13%20PRs%20merged-14b8a6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-24%20PRs%20merged-14b8a6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
   <img alt="Location" src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City-GMT%2B7-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-22c55e?style=flat-square&labelColor=0d1117" />
@@ -38,8 +38,8 @@
 
 ## 🧑‍💻 About me
 
-- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **87 deep-dives across 22 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
-- 🌳 **Open source** — **13 pull requests merged** into projects like **NestJS, Vite, Astro, Svelte, TanStack Query & Pinia** — several the same day, a few by the **founder / core team**.
+- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **98 deep-dives across 22 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
+- 🌳 **Open source** — **24 pull requests merged** into projects like **Node.js (undici), NestJS, Vite, Astro, Svelte, react-hook-form, TanStack Query & Pinia** — several the same day, a few by the **founder / core team**.
 - 🌏 **Shipped** — government & enterprise platforms used by **millions** of people, end to end.
 - 🏆 **1st place ($5K)** — won *Best of Polkadot* at **Token2049 Origins 2025** with crypto payments sent through X (Twitter) DMs.
 - 🤖 **Built** — [Dessistant](https://dessistant.xyz/): real-time blockchain indexing + LLM trade execution + automated market-making on Uniswap & KyberSwap.
@@ -97,10 +97,12 @@ const marcus = {
 
 ## 🌳 Open-source contributions
 
-**13 pull requests merged** into widely-used open-source projects — real fixes to docs, examples & correctness, several merged **the same day**, a few by the project's **founder / core team**.
+**24 pull requests merged** into widely-used open-source projects — from a one-line crash-regression fix in Node.js core to docs, examples & correctness fixes, several merged **the same day**, a few by the project's **founder / core team**.
 
 | Project | Contribution | |
 | --- | --- | --- |
+| **[Node.js · undici](https://github.com/nodejs/undici/pull/5408)** | fixed an HTTP/2 process-crash regression (+ regression test) | ✅ merged · core |
+| **[react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/13515)** | fixed a `deepEqual` false-positive on shared object refs (+ tests) | ✅ merged |
 | **[NestJS](https://github.com/nestjs/nest/pull/17085)** | fixed a user-facing string in the Node 22 ESM sample | ✅ merged by **Kamil Myśliwiec** — creator of NestJS |
 | **[React Router](https://github.com/remix-run/react-router/pull/15149)** · Remix | fixed a broken `Headers.append()` docs example | ✅ merged by **core maintainer** |
 | **[Astro](https://github.com/withastro/astro/pull/16976)** | corrected `getStaticPaths` examples in the error reference | ✅ same-day · **core team** |
@@ -112,14 +114,15 @@ const marcus = {
 | **[Nx](https://github.com/nrwl/nx/pull/35852)** | corrected user-facing error messages | ✅ merged by core maintainer |
 | **[Medusa](https://github.com/medusajs/medusa/pull/15564)** | fixed the Workflows tutorial docs | ✅ merged |
 
-<sub>Also merged into **[OpenTelemetry C++](https://github.com/open-telemetry/opentelemetry-cpp/pull/4111)** (CNCF), **[OpenEMR](https://github.com/openemr/openemr/pull/12327)**, and **[Svelte language-tools](https://github.com/sveltejs/language-tools/pull/3039)** — the official VS Code extension.</sub>
+<sub>Also merged into **[Vitest](https://github.com/vitest-dev/vitest/pull/10573)**, **[Koa](https://github.com/koajs/koa/pull/1978)**, **[Jotai](https://github.com/pmndrs/jotai/pull/3331)**, **[Socket.IO](https://github.com/socketio/socket.io/pull/5508)**, **[go-chi](https://github.com/go-chi/chi/pull/1110)** (Go), **[OpenTelemetry C++](https://github.com/open-telemetry/opentelemetry-cpp/pull/4111)** (CNCF), **[OpenEMR](https://github.com/openemr/openemr/pull/12327)**, and **[Svelte language-tools](https://github.com/sveltejs/language-tools/pull/3039)** — the official VS Code extension.</sub>
 
 ---
 
 ## 📊 GitHub analytics
 
 <div align="center">
-  <img alt="Pull Shark" src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-earned-14b8a6?style=flat-square&labelColor=0d1117" />
+  <img alt="Pull Shark x2" src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-x2-14b8a6?style=flat-square&labelColor=0d1117" />
+  <img alt="Pair Extraordinaire" src="https://img.shields.io/badge/%F0%9F%91%AF%20Pair%20Extraordinaire-earned-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Quickdraw" src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-earned-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="YOLO" src="https://img.shields.io/badge/%F0%9F%9A%80%20YOLO-earned-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Public Sponsor" src="https://img.shields.io/badge/%F0%9F%92%9C%20Public%20Sponsor-active-14b8a6?style=flat-square&labelColor=0d1117" />
