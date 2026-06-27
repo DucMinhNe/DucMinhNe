@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://minhle.xyz">
     <img alt="What I do"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;Open-source+contributor+%E2%80%94+24+PRs+merged+at+Node.js%2C+NestJS%2C+Vite;98+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;Open-source+%E2%80%94+29+PRs+merged+at+Node.js%2C+NestJS%2C+Vite%2C+Astro;115+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
   </a>
 </div>
 
@@ -19,8 +19,9 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/DucMinhNe?label=Followers&style=flat-square&color=14b8a6&labelColor=0d1117" />
   </a>
   <a href="#-open-source-contributions">
-    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-24%20PRs%20merged-14b8a6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-29%20PRs%20merged-14b8a6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
+  <img alt="Pull Shark" src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-x3-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Location" src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City-GMT%2B7-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-22c55e?style=flat-square&labelColor=0d1117" />
 </div>
@@ -38,8 +39,8 @@
 
 ## 🧑‍💻 About me
 
-- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **98 deep-dives across 22 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
-- 🌳 **Open source** — **24 pull requests merged** into projects like **Node.js (undici), NestJS, Vite, Astro, Svelte, react-hook-form, TanStack Query & Pinia** — several the same day, a few by the **founder / core team**.
+- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **115 deep-dives across 22 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
+- 🌳 **Open source** — **29 pull requests merged** into projects like **Node.js (undici), NestJS, Vite, Astro, Svelte, react-hook-form, TanStack Query & Pinia** — several the same day, a few by the **founder / core team**.
 - 🌏 **Shipped** — government & enterprise platforms used by **millions** of people, end to end.
 - 🏆 **1st place ($5K)** — won *Best of Polkadot* at **Token2049 Origins 2025** with crypto payments sent through X (Twitter) DMs.
 - 🤖 **Built** — [Dessistant](https://dessistant.xyz/): real-time blockchain indexing + LLM trade execution + automated market-making on Uniswap & KyberSwap.
@@ -97,7 +98,7 @@ const marcus = {
 
 ## 🌳 Open-source contributions
 
-**24 pull requests merged** into widely-used open-source projects — from a one-line crash-regression fix in Node.js core to docs, examples & correctness fixes, several merged **the same day**, a few by the project's **founder / core team**.
+**29 pull requests merged** into widely-used open-source projects — from a one-line crash-regression fix in Node.js core to docs, examples & correctness fixes, several merged **the same day**, a few by the project's **founder / core team**.
 
 | Project | Contribution | |
 | --- | --- | --- |
@@ -121,11 +122,18 @@ const marcus = {
 ## 📊 GitHub analytics
 
 <div align="center">
-  <img alt="Pull Shark x2" src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-x2-14b8a6?style=flat-square&labelColor=0d1117" />
+  <img alt="Pull Shark x3" src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-x3-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Pair Extraordinaire" src="https://img.shields.io/badge/%F0%9F%91%AF%20Pair%20Extraordinaire-earned-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Quickdraw" src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-earned-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="YOLO" src="https://img.shields.io/badge/%F0%9F%9A%80%20YOLO-earned-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Public Sponsor" src="https://img.shields.io/badge/%F0%9F%92%9C%20Public%20Sponsor-active-14b8a6?style=flat-square&labelColor=0d1117" />
+</div>
+
+<div align="center">
+  <img height="165" alt="GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=DucMinhNe&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=9aa5b1" />
+  <img height="165" alt="Top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucMinhNe&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=14b8a6&text_color=9aa5b1" />
 </div>
 
 <div align="center">
