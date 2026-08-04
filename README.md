@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://minhle.xyz">
     <img alt="What I do"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;Open-source+%E2%80%94+29+PRs+merged+at+Node.js%2C+NestJS%2C+Vite%2C+Astro;115+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%94+I+build+the+whole+product;Government+%26+enterprise+platforms+used+by+millions;Kafka+%C2%B7+Redis+%C2%B7+Postgres+%C2%B7+system+design;Open-source+%E2%80%94+31+PRs+merged+at+Node.js%2C+NestJS%2C+Vite%2C+Astro;125+engineering+deep-dives+and+counting;Open+to+freelance+%26+contract+work" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/DucMinhNe?label=Followers&style=flat-square&color=14b8a6&labelColor=0d1117" />
   </a>
   <a href="#-open-source-contributions">
-    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-29%20PRs%20merged-14b8a6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-31%20PRs%20merged-14b8a6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
   <img alt="Pull Shark" src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-x3-14b8a6?style=flat-square&labelColor=0d1117" />
   <img alt="Location" src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City-GMT%2B7-14b8a6?style=flat-square&labelColor=0d1117" />
@@ -39,8 +39,8 @@
 
 ## 🧑‍💻 About me
 
-- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **115 deep-dives across 22 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
-- 🌳 **Open source** — **29 pull requests merged** into projects like **Node.js (undici), NestJS, Vite, Astro, Svelte, react-hook-form, TanStack Query & Pinia** — several the same day, a few by the **founder / core team**.
+- 🔭 **Currently** — building [`minhle.xyz`](https://minhle.xyz) and writing its engineering journal: **125 deep-dives across 22 topics** on Kafka, Redis, Postgres, Elasticsearch & distributed systems.
+- 🌳 **Open source** — **31 pull requests merged** into projects like **Node.js (undici), NestJS, Vite, Astro, Svelte, react-hook-form, TanStack Query & Pinia** — several the same day, a few by the **founder / core team**.
 - 🌏 **Shipped** — government & enterprise platforms used by **millions** of people, end to end.
 - 🏆 **1st place ($5K)** — won *Best of Polkadot* at **Token2049 Origins 2025** with crypto payments sent through X (Twitter) DMs.
 - 🤖 **Built** — [Dessistant](https://dessistant.xyz/): real-time blockchain indexing + LLM trade execution + automated market-making on Uniswap & KyberSwap.
